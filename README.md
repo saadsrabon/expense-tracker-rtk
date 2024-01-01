@@ -1,0 +1,1 @@
+This a simple expense Tracker Application , Handled with redux and some restfull apis, Have done some standard validations.
