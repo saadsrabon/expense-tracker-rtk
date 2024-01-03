@@ -6,12 +6,13 @@ import axiosInstance from "../../../utils/axiosinstance";
 //Get api to get data from Server
 export const getTransactions = async () => {
     const response = await axiosInstance.get("/transactions");
-    return response.data;
-}; 
 
-// post api for adding data to server
-export const   addTransaction =async (payload) => {
-    const response = axiosInstance.post("/transactions", payload);
+    return response.data;
+};
+
+export const addTransaction = async (data) => {
+    const response = await axiosInstance.post("/transactions", data);
+
     return response.data;
 };
 

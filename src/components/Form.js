@@ -18,6 +18,7 @@ export default function Form() {
             type,
             amount: Number(amount),
         };
+        console.log(payload)
 
          dispatch(addTransactionThunk(payload));  
     };

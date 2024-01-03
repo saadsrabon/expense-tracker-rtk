@@ -11,7 +11,66 @@
       "name": "Family Expenses",
       "type": "expense",
       "amount": 200000
+    },
+    {
+      "name": "Rahim",
+      "type": "income",
+      "amount": 43545,
+      "id": 3
+    },
+    {
+      "name": "JAN",
+      "type": "income",
+      "amount": 500,
+      "id": 4
+    },
+    {
+      "name": "JAN",
+      "type": "income",
+      "amount": 500,
+      "id": 5
+    },
+    {
+      "name": "JAN",
+      "type": "income",
+      "amount": 500,
+      "id": 6
+    },
+    {
+      "name": "ddd",
+      "type": "income",
+      "amount": 5455,
+      "id": 7
+    },
+    {
+      "name": "dd",
+      "type": "income",
+      "amount": 569,
+      "id": 8
+    },
+    {
+      "name": "';kp;",
+      "type": "income",
+      "amount": 5111,
+      "id": 9
+    },
+    {
+      "name": "ddd",
+      "type": "income",
+      "amount": 11,
+      "id": 10
+    },
+    {
+      "name": "dd",
+      "type": "income",
+      "amount": 500,
+      "id": 11
+    },
+    {
+      "name": "Dimafg",
+      "type": "income",
+      "amount": 500,
+      "id": 12
     }
-    
   ]
 }
